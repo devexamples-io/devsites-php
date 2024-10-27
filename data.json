@@ -1,0 +1,70 @@
+{
+    "sites": [
+        {
+            "name": "Laravel",
+            "url": "https://laravel.com",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/laravel.png",
+            "category_key": "fwk"
+        },
+        {
+            "name": "Symfony",
+            "url": "https://symfony.com",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/symfony.png",
+            "category_key": "fwk"
+        },
+        {
+            "name": "CodeIgniter",
+            "url": "https://www.codeigniter.com",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/codeigniter.png",
+            "category_key": "fwk"
+        },
+        {
+            "name": "CakePHP",
+            "url": "https://cakephp.org",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/cakephp.png",
+            "category_key": "fwk"
+        },
+        {
+            "name": "Wordpress",
+            "url": "https://en-gb.wordpress.org",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/wordpress.png",
+            "category_key": "cms"
+        },
+        {
+            "name": "Drupal",
+            "url": "https://www.drupal.org",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/drupal.png",
+            "category_key": "cms"
+        },
+        {
+            "name": "Magento",
+            "url": "https://business.adobe.com/products/magento/magento-commerce.html",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/magento.png",
+            "category_key": "ecomm"
+        },
+        {
+            "name": "OpenCart",
+            "url": "https://www.opencart.com",
+            "image_url": "https://requiredev.s3.eu-west-2.amazonaws.com/devsites/opencart.png",
+            "category_key": "ecomm"
+        }
+    ],
+    "categories": [
+        {
+            "key": "all",
+            "text": "All"
+        },
+        {
+            "key": "fwk",
+            "text": "Frameworks"
+        },
+        {
+            "key": "cms",
+            "text": "Content Management systems"
+        },
+        {
+            "key": "ecomm",
+            "text": "E-commerce"
+        }
+    ]
+}
